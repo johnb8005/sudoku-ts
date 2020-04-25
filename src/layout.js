@@ -23,7 +23,7 @@ export default (props) => {
     <main role="main">
       <div className="container">
         {props.children}
-        <div><br/><a href="https://johnb8005.github.io/sudoku-ts/">&lt;&lt; Back to Github page</a></div>
+        <div><br/><a href="https://github.com/johnb8005/sudoku-ts">&lt;&lt; Back to Github page</a></div>
       </div>
 
     </main>
